@@ -34,9 +34,6 @@ body {
   transition:
     transform 0.3s ease,
     box-shadow 0.3s ease;
-  padding: 20px;
-  background: white;
-  border-radius: 8px;
 }
 
 .container:hover {
@@ -96,3 +93,4 @@ body {
   text-decoration: none;
   border-radius: 50%;
 }
+
